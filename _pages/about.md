@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "述"
-author: "Chester"
+author: "暮雪"
 permalink: /about/
 ---
 
