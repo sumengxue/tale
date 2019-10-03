@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          暮雪
+description:    "弦歌应未远，故镇烟花碎月."
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://www.github.com/sumengxue/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         DUSKSNOW
+  url:          "https://github.com/sumengxue/"
+  email:        50213295@qq.com
 
 # Build settings
 markdown:       kramdown
