@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "About"
+title: "述"
 author: "Chester"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+我曾幻想过北冰洋跳出海面的彩色鱼群，曾窥探过西伯利亚白桦的荒凉气息。我做过无数奇幻诡谲的梦，梦醒灿烂烟气在天空沉积。
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+伫立人寰，看见亿万人类的愿望在云层之上散发玉色光芒，倏忽间便化为叹息，陨落遥远的北方。嵇康的绝响扬撒天地，向秀的闻笛化为笛声。仿佛这一瞬间的感受如此微不足道，目光尽头，檐下苔藓洇湿枯黄老房。
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+人生而微渺，本性反抗之余，对四时景物的依恋或厌倦相伴生出；人生而孤独，纵寄身与金谷之园，隐约的怆痛又谁能具与之语。冷漠至极，自知至极。冷暖未解，随世浮沉。
 
-Thanks for reading!
+既知此身营营，孤寒相续，亦愿随缘贪耍，含笑寻欢。“昔日曾相约，生死恰百年。”鸿爪虽微，亦可暂痕残雪。故记下今日散漫无经之想，寻愁觅恨之文，以遗后日。
