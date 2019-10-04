@@ -4,4 +4,4 @@ title:  "呓语"
 author: "dusksnow"
 ---
 
-我曾梦见黄昏.
+我曾梦见黄昏?
