@@ -15,10 +15,7 @@ Gayhub:
 
 > [github.com/sumengxue/](https://www.github.com/sumengxue/)
 
-
-------------------------------------
-
-
+---
 
 没有微博或其他的东西，估计是自己肚子里确实没有什么货了。
 
