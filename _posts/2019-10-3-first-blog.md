@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "呓语1"
+title:  "呓语"
 author: "dusksnow"
 ---
 
