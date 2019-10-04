@@ -1,7 +1,6 @@
 # Site settings
 title:          暮雪
 description:    "弦歌应未远，故镇烟花碎月."
-baseurl:        "/"
 url:            "https://www.github.com/sumengxue/"
 
 # Google Analytics
