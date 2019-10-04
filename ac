@@ -4,7 +4,7 @@ if [ "$comment" = "" ]
 then
 	comment=$(date "+Updated at %H:%M:%S %m.%d %Y")
 fi
-git add . > /dev/null
-git commit -m "$comment" > /dev/null
-git push -u origin master > /dev/null
+git add . 
+git commit -m "$comment" 
+git push -u origin master
 
