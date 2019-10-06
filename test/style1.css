@@ -31,8 +31,16 @@ section aside{
     grid-area: aside;
     display: flex;
     flex-flow: column nowrap;
+
+    font-size: 1.5em;
 }
-.side-item{}
+.side-item{
+    padding-top: 0.5em;
+    border-top-style: solid;
+    border-width: 1px;
+    background-color: #666;
+    text-align: center;
+}
 section main{
     display: flex;
     flex-flow: column nowrap;
