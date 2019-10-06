@@ -5,24 +5,25 @@ html{
 
 body{
     height:1000px;
-    width: 800px;
     display: flex;
     flex-flow: column  nowrap;
 
-    border-color: grey;
 }
 
 header{
-    font-size: 1.5em;
+    font-size: 1em;
     flex-basis: 1.5em;
     font-display: bold;
     display: flex;
-    flex-flow: row-reverse nowrap;
+    flex-flow: row nowrap;
+    justify-content: center;
 
     margin-bottom: 1em;
     border-bottom-style: solid;
     border-bottom-width: 1px;
+    border-bottom-color: #999;
 
+    margin: 1em 0 1em 0;
 }
 
 .nav-item{
@@ -40,19 +41,62 @@ section aside{
     flex-flow: column nowrap;
 
     font-size: 1.5em;
+    margin: 1em 2em;
 }
 .side-item{
-    margin-bottom: 0.5em;
-    border-bottom-style: solid;
-    border-width: 3px;
+    margin-bottom: 0.1em;
     text-align: center;
+}
+
+.side-separator{
+    height: 0;
+    margin-bottom: 0.5em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+
+    border-top-style: solid;
+    border-top-width: 3px;
+    border-top-color:#222;
 }
 section main{
     display: flex;
     flex-flow: column nowrap;
+
+    margin: 1em 2em;
+}
+
+section main article{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #555;
+
+    padding: 1em 0.5em;
+    width: 60%;
+}
+
+.article-item-title{
+    font-size: 1.5em;
+    margin: 1em, 0;
+}
+
+.article-item-content{
+    font-size: 0.8em;
+    color: grey;
+    margin: 0.3em, 0.5em;
+}
+
+.article-item-separator{
+    height: 0;
+    width: 80px;
+    margin: 1em 0;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-color: #000;
 }
 
 footer{
-    grid-area: footer;
     text-align: center;
+    margin: 3em 0;
+    font-size: 0.5em;
+    color: grey;
 }
