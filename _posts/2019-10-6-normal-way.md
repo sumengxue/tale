@@ -1,7 +1,7 @@
 ---
-layout:post
-title:" 平凡"
-author:"dusksnow"
+layout: post
+title: "平凡"
+author: "dusksnow"
 ---
 杭州的旅馆里，浅灰薄窗帘遮掩着浅灰色傍晚天空。平淡低矮的房屋堆叠，云间隐约粉色，暗淡温和。听罢朴树猎户星座和平凡之路，刹那之间，欲求与失落俱尽，少年时期的澄澈再次涌上心头。如流星划过。
 
