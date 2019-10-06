@@ -1,0 +1,44 @@
+html{
+    font-family: monospace;
+    font-size: 1.5em;
+}
+
+body{
+    height:1000px;
+    width: 800px;
+    display: flex;
+    flex-flow: column  nowrap;
+}
+
+header{
+    font-size: 1.5em;
+    flex-basis: 1.5em;
+    font-display: bold;
+    display: flex;
+    flex-flow: row-reverse nowrap;
+}
+
+.nav-item{
+    margin-right: 1em;
+}
+
+section{
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+section aside{
+    grid-area: aside;
+    display: flex;
+    flex-flow: column nowrap;
+}
+.side-item{}
+section main{
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+footer{
+    grid-area: footer;
+    text-align: center;
+}
