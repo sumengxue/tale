@@ -9,14 +9,14 @@ body{
 .area{
     display: flex;
     width: 500px;
+    background-color: #ECF5F9;
     flex-flow: column nowrap;
 }
 
 .yu{
-    border: solid 2px;
     padding: 0.5em;
     margin: 0.5em;
-    background-color: rgb(121, 119, 252);
+    background-color: #fae3d9;
     border-radius: 0.5em;
     align-self: flex-start;
 }
@@ -24,8 +24,7 @@ body{
 .gao{
     padding: 0.5em;
     margin: 0.5em;
-    border: solid 2px;
     border-radius: 0.5em;
-    background-color: rgb(255, 202, 103);
+    background-color:#8ac6d1;
     align-self: flex-end;
 }
