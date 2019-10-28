@@ -27,4 +27,7 @@ permalink: /note/
 
 - [Arch Linux 的安装与配置]()
 
+##### 配色网站
+- [网站集合一](https://www.uisdc.com/color-artifact-web) 七个听起来不错的配色网站
+
 ...
