@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "拟古意"
+title: "山中"
 author: "dusksnow"
 ---
 

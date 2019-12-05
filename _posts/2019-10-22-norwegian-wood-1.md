@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "致渡边"
+title: "某处的森林"
 author: "dusksnow"
 ---
 
@@ -24,4 +24,6 @@ author: "dusksnow"
 
 楼宇间雨汽凛然冷漠
 
-点染背影沾染面容
+点染背影
+
+沾染泪痕

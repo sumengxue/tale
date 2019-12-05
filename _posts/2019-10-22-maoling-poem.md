@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "茂陵诗"
+title: "如吊茂陵"
 author: "dusksnow"
 ---
 茂陵风雨白
